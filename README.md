@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on smaller beginner-friendly Web development projects.
 - 📫 How to reach me: nivitha@hotmail.co.uk
 - 😄 Hobbies: Gaming, Travelling, Exploring & Chilling
-- ⚡ Fun fact: I speak 4 languages.
+- ⚡ Fun fact: I speak 4 languages. English|German|Tamil|French
 
 <!---
 Ninix3/Ninix3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
